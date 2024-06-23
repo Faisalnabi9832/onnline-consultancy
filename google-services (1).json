@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815593138240",
+    "project_id": "onnile-consultancy",
+    "storage_bucket": "onnile-consultancy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815593138240:android:4ef58cab7de94da027d7a5",
+        "android_client_info": {
+          "package_name": "com.example.onnlineconsultancy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQspb6ffAtjd59vivEo5zNZp_Nx2AM3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
